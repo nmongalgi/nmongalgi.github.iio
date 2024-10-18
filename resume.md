@@ -7,10 +7,10 @@ permalink: /resume/
 **Senior Software Engineer** 
 
 ## Summary
-I am a software engineer with 10 years of experience in backend development mainly in C++/Python. I worked on cloud and machine learning topics.
+I am a software engineer with 10 years of experience in backend development mainly in C++ and Python. I am working on cloud and machine learning topics.
 ```
-# Life is an opportnuty to improve skills, learn, create and share. 
-# I love to tackle complex problems towards making out world a better place. 
+# Life is an opportnity to improve skills, learn, create and share. 
+# I love to tackle complex problems towards making out our world a better place. 
 # I value curiosity, efficiency and quality
 # I like to take ownership of projects and drive them to completion.  
 ``` 
@@ -62,7 +62,7 @@ Software development engineer:
 
 ## Education
 **Electronic Signal and Image Processing Engineer** | [ENSEIRB](https://www.bordeaux-inp.fr/en) | 2014  
-**Machine learning software Engineer** | [TU-Berlin](https://www.tu.berlin/) | 2014  
+**Machine Learning software Engineer** | [TU-Berlin](https://www.tu.berlin/) | 2014  
 **Intensive Maths and Physics courses** | [Esprit-prepa](https://prepa.esprit.tn/) | 2011  
 
 ## Certifications: 
