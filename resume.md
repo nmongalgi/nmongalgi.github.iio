@@ -9,19 +9,19 @@ permalink: /resume/
 ## Summary
 I am a software engineer with 10 years of experience in backend development mainly in C++ and Python. I am working on cloud and machine learning topics.
 ```
-# Life is an opportnity to improve skills, learn, create and share. 
+# Life is an opportunity to improve skills, learn by doing, create and share. 
 # I love to tackle complex problems towards making out our world a better place. 
-# I value curiosity, efficiency and quality
+# I value curiosity, efficiency and quality.
 # I like to take ownership of projects and drive them to completion.  
 ``` 
 
 ## Skills
-- Programming Languages: C++, Python, C 
+- Programming Languages: C++, Python 
 - Cpp Frameworks & Libraries : Qt, OpenCV, Json Spirit, gtest.. 
 - Python Frameworks : Dash, Scikit-Learn, Jupyter.. 
 - Web Frameworks: Django, Flask
 - Architecture: SOA, Software design pattern
-- Databases: MySQL,Oracle, Couchbase, MongoDB
+- Databases: MySQL, Oracle, Couchbase, MongoDB
 - Tools & Methods: Git, Agile, Scrum, Test-driven development
 - Cloud Automation: Docker, Kubernetes, Openshift, GCP, Azure, Jenkins
 
